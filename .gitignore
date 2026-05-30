@@ -30,12 +30,6 @@ logs/
 tensorboard/
 tb_logs/
 
-
-saved_model/
-saved_models/
-models/
-
-
 *.tfrecord
 *.pb
 *.pbtxt
