@@ -21,7 +21,6 @@ ENV/
 checkpoints/
 *.h5
 *.hdf5
-*.keras
 *.ckpt
 *.ckpt.*
 
