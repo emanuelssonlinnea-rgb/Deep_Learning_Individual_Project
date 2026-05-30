@@ -47,8 +47,3 @@ figures/
 plots/
 
 data/
-
-*.keras
-*.h5
-
-.vscode/
